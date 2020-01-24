@@ -1,0 +1,13 @@
+{
+    "name": "administrador/ph-pmailer",
+    "description": "Prueba de envio de mail",
+    "authors": [
+        {
+            "name": "Fabricio Juncal",
+            "email": "fjuncal@tdi.com.ar"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
